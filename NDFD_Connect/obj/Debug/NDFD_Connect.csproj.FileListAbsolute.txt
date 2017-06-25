@@ -1,0 +1,15 @@
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\bin\Debug\NDFD_Connect.exe.config
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\bin\Debug\NDFD_Connect.exe
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\bin\Debug\NDFD_Connect.pdb
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\bin\Debug\GoogleMaps.LocationServices.dll
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect.csprojResolveAssemblyReference.cache
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\MainWindow.g.cs
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\App.g.cs
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect_MarkupCompile.cache
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect_MarkupCompile.lref
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\MainWindow.baml
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect.g.resources
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect.Properties.Resources.resources
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect.csproj.GenerateResource.Cache
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect.exe
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_Connect\NDFD_Connect\obj\Debug\NDFD_Connect.pdb

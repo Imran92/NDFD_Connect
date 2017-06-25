@@ -1,0 +1,15 @@
+﻿<Window x:Class="NDFD_Connect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NDFD_Connect"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Name="inputBox" HorizontalAlignment="Left" Height="20" Margin="10,10,0,0" TextWrapping="Wrap" Text="Enter Address" VerticalAlignment="Top" Width="269" RenderTransformOrigin="-0.385,-0.612"/>
+        <Button Click="Button_Click" Content="Get Data" HorizontalAlignment="Left" Margin="311,10,0,0" VerticalAlignment="Top" Width="75" Height="20"/>
+        <TextBox Name="outputBox" HorizontalAlignment="Left" Height="267" Margin="10,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="497"/>
+
+    </Grid>
+</Window>
